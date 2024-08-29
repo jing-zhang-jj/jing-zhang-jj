@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jing-zhang and could call me jingjing
-- 👀 I’m interested in econometrics and research analysis with data analysis softwares
+- 👀 I’m interested in econometrics and research analysis with data analysis and machine learning
 - 🌱 I’m currently learning advanced coding and data modelling on the field of econometrics with the actual economic projects 
 - 💞️ I’m looking to collaborate on the entry-level of data analyst and the economic analyst related to other industries to strengthen my skills and working abilities
 - 📫 How to reach me: jingzhang_0107@outlook.com
